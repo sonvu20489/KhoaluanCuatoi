@@ -1,0 +1,26 @@
+http://iotmonk.com/courses/creating-iot-cloud-scratch-using-php-mysql-esp12e/
+https://techtuturialx.com/2017/12/01/esp32-arduino-asynchoronous-http-webserver
+https://www.instructables.com/id/IOT-Made-Simple-Playing-With-the-ESP32-on-Arduino-/
+http://arduino.vn/bai-viet/1048-dieu-khien-dong-co-buoc-bang-mach-cau-h
+https://hocarm.org/dong-ho-thoi-gian-thuc-cho-esp8266
+http://arduino.vn/bai-viet/369-giao-tiep-i2c-va-su-dung-module-realtime-clock-ds1307
+https://color.adobe.com/
+http://mamauhtml-css.hostingaz.vn/
+tạo chức năng đăng nhập và bảo mật.
+https://freetuts.net/session-va-cookie-trong-php-25.html/
+https://hocthietkeweb.net.vn/huong-dan-su-dung-session-va-cookie-trong-php.html
+https://kungfuphp.com/php-co-ban/php-co-ban-tao-form-dang-ky-dang-nhap-phan-2.html
+https://freetuts.net/xay-dung-chuc-nang-dang-nhap-va-dang-ky-voi-php-va-mysql-85.html
+tạo chức năng gửi form, kiểm tra hợp lệ của thẻ input
+http://hocwebchuan.com/reference/tag/tag_form.php/
+https://webvn.com/thuoc-tinh-trong-the-input
+http://w3schools.com/tags/att_input_min.asp
+https://stackoverflow.com/questions/19011861/is-there-a-float-input-type-in-html5
+https://webdesign.tutsplus.com/vi/tutorials/html5-form-validation-with-the-parttern-attribute--cms-25145
+Tạo thanh công cụ cho trang điều khiển và trang lịch sử.
+http://laivanduc.com/chia-se-code/css/tu-code-menu-co-dinh-bang-html-va-css.html
+https://thachpham.com/web-development/html-css/the-tao-lien-ket-va-lien-ket-neo.html
+Xử lý ngày giờ trong PHP:
+http://vietjack.com/sql/ham_xu_ly_date_trong_sql.jsp
+https://hoangweb.com/develop/php/xu-ly-ngay-gio-trong-php/
+http://streampow.net/tu-hoc-php-nang-cao-6/xu-ly-ngay-gio-datetime--38.html

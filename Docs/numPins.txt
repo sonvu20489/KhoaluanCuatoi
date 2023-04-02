@@ -1,0 +1,29 @@
+Khiêm Huỳnh20:59
+1. tính năng mở khóa
+2. vân tay + RFID
+thêm key
+3. quản lý dc ID vân tay key
+Khiêm Huỳnh21:01
+thêm xóa mk
+Khiêm Huỳnh21:03
+4. quan lý trên web ứng dụng
+5. cảnh báo
+Khiêm Huỳnh21:09
+quản lý trên web:
++ thông tin mở khóa (thời gian đóng, mở).
++ đổi keypad trên web
++ xóa vân tay.
++ thêm tên cho vân tay, RFID	.
++ thống kê số lần nhập sai mật khẩu(nếu có thể làm được).
+6. không tự đóng cửa khi có vật cảng
+---------------------------------------------------------------
+Vân tay sử dụng UART: 2 chân
+Keypad 4x4: 8 chân
+lcd I2C: 2 chân
+RFID SPI: 4 chân
+RTC DS1307 cùng chân với LCD giao tiếp địa chỉ
+1 chân cho buzzer
+2 đèn led
+1 chân cho khóa (Servo)
+1 chân
+

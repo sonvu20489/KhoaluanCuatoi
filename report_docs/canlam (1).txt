@@ -1,0 +1,13 @@
+- ráp full linh kiện + viết chương nhỏ test từng linh kiện( trong điều kiện tất cả các linh kiện điều dc nối với vdk)
+- tạo 1 cấu trúc dữ liệu để quản lý
+	+ tên người dùng
+	+ vân tay
+	+ RFID
+-Hệ thống cần lưu những thông số/giá trị gì?
+-Lựa chọn cấu trúc để lưu trữ dữ liệu là gì? (Mảng, struct, chuỗi, DSLK, ...)
+-Lưu History không? Nơi lưu dữ liệu là ở đâu (tránh việc mất điện/HT bị reset lại, ...)?
+
+- đã test đầy đủ linh kiện trên tất cả các chân -> hoạt động ổn định
+- không sử dụng cấu trúc dữ liệu để quản lý người dùng (quản lý theo mã thẻ, ID vân tay được lưu trên EEPROM). Chủ gia đình có thể thêm tên trên web để quản lý các ID thuộc thẻ nào.
+- nhóm có thể dùng mảng để lưu trữ thông tin khi mới mở nguồn.
+- Lưu lịch sử bằng cách gửi lên Server các đoạn nội dung text với thời gian trên Server.
