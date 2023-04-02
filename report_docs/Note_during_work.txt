@@ -1,1 +1,0 @@
-- Khi vào menu admin reset tất cả giá trị (Buzzer countdown, keypad, báo động) Khi vào cần phải đóng cửa

@@ -1,5 +1,0 @@
-RM ESP32
-1.2 Feature 
-1.3.2 - Embedded Memory (xem chi tiết RAM ROM)
-
-Embeded flash or PSRAM

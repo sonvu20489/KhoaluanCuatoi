@@ -1,7 +1,0 @@
-- Tạo mảng chưa lọc gồm tên người dùng (nếu 20 thẻ RFID và 20 vân tay => cần dùng mảng 40 phần tử)
-- Tiến hành thực hiện gán mảng RFID không trùng tên (thực hiện tương tự cho vân tay)
-- Với tên trong mảng đã lọc -> gán cho các Struct user
-+ Nếu tên chưa có trong struct tiến hành thêm struct rồi thêm nội dung (thẻ RFID, vân tay)
-+ Nếu tên đã có struct tiến hành thêm nội dung
-
-
