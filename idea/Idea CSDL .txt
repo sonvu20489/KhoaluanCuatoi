@@ -1,0 +1,4 @@
+- POST/GET dữ liệu đưa lên code (hoặc slot) dùng để xóa, thêm, cập nhật (các Action) và name (RFID, Vantay)
+- Thêm 1 nút nhấn mở cửa khi xem camera 
+- lưu dữ liệu lịch sử trên 1 bảng history CSDL.
+- Lưu dữ liệu RFID, vân tay lên CSDL để quản lý.
