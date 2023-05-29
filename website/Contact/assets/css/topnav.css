@@ -1,0 +1,39 @@
+.top-nav{
+    font-size: 1rem;
+}
+.navigation
+{
+    background-color: var(--back-ground-color);
+    position: relative;
+}
+.menu a
+{
+    color: white;
+    font-size: 20px;
+}
+.menu 
+{
+    display: flex;
+    color: white;
+    width: 100%;
+    font-size: 20px;
+    padding: 10px;
+}
+.menu li
+{
+    padding: 0px 5px;
+    margin: 0px 5px;
+}
+.symbol_menu
+{
+    display: none;
+    font-size: 40px;
+}
+.menu a:hover
+{
+    color: rgb(181, 17, 17);
+}
+.select
+{
+    border-bottom: 2px solid red;
+}

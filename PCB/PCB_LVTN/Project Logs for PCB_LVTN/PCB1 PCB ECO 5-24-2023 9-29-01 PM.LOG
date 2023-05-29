@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=R0 Pin=HGND?-4
+Removed Pin From Net: NetName=R1 Pin=HGND?-5
+Removed Pin From Net: NetName=R2 Pin=HGND?-6
+Removed Pin From Net: NetName=R3 Pin=HGND?-7
+Removed Pin From Net: NetName=R0 Pin=VDK?-23
+Removed Pin From Net: NetName=R1 Pin=VDK?-24
+Removed Pin From Net: NetName=R2 Pin=VDK?-25
+Removed Pin From Net: NetName=R3 Pin=VDK?-26
+Change Component Comment : Designator=RL? Old Comment=Res New Comment=10k
+Change Component Comment : Designator=RLRED Old Comment=Res New Comment=300
+Change Component Comment : Designator=RLGREEN? Old Comment=Res New Comment=600
+Added Component: Designator=U?(MODULE_ESP32_NODEMCU)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ESP32%20NodeMCU/Espressif+Systems/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ESP32 NodeMCU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ESP32%20NodeMCU/Espressif+Systems/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=R3 Pin=HGND?-4
+Added Pin To Net: NetName=R2 Pin=HGND?-5
+Added Pin To Net: NetName=R1 Pin=HGND?-6
+Added Pin To Net: NetName=R0 Pin=HGND?-7
+Added Pin To Net: NetName=R3 Pin=VDK?-23
+Added Pin To Net: NetName=R2 Pin=VDK?-24
+Added Pin To Net: NetName=R1 Pin=VDK?-25
+Added Pin To Net: NetName=R0 Pin=VDK?-26
+Added Member To Class: ClassName=Sheet2 Member=Component P? Header 5H
+Added Member To Class: ClassName=Sheet2 Member=Component RLGREEN? 600
+Added Member To Class: ClassName=Sheet2 Member=Component U? ESP32_NODEMCU
+Added Room: Name=Sheet2

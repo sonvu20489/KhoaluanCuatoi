@@ -1,0 +1,7 @@
+Added Component: Designator=L?(BUCK_LM2596)
+Added Pin To Net: NetName=12V Pin=L?-1
+Added Pin To Net: NetName=GND Pin=L?-2
+Added Pin To Net: NetName=GND Pin=L?-3
+Added Pin To Net: NetName=VCC Pin=L?-4
+Added Member To Class: ClassName=Sheet1 Member=Component L? BUCK_LM2596
+Added Member To Class: ClassName=Sheet1 Member=Component P? Header 5H

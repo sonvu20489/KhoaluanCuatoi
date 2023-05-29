@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=RX2 Pin=FINGER-2
+Removed Pin From Net: NetName=TX2 Pin=FINGER-3
+Removed Pin From Net: NetName=MISO Pin=MC?-3
+Removed Pin From Net: NetName=MOSI Pin=MC?-4
+Added Component: Designator=LS?(Coi Chip Speacker)
+Added Pin To Net: NetName=TX2 Pin=FINGER-2
+Added Pin To Net: NetName=RX2 Pin=FINGER-3
+Added Pin To Net: NetName=VCC Pin=LS?-1
+Added Pin To Net: NetName=NetBJTL_2 Pin=LS?-2
+Added Pin To Net: NetName=MOSI Pin=MC?-3
+Added Pin To Net: NetName=MISO Pin=MC?-4
+Added Member To Class: ClassName=Sheet1 Member=Component LS? Coi Chip Speaker
+Added Member To Class: ClassName=Sheet1 Member=Component P? Header 5H
+Added Room: Name=Sheet1

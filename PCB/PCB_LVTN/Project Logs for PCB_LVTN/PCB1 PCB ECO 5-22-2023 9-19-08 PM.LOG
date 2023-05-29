@@ -1,0 +1,5 @@
+Added Component: Designator=L?(BUCK_LM2596)
+Added Member To Class: ClassName=Sheet2 Member=Component L? BUCK_LM2596
+Added Member To Class: ClassName=Sheet2 Member=Component P? Header 5H
+Added Member To Class: ClassName=Sheet2 Member=Component RLGREEN? Res
+Added Room: Name=Sheet2

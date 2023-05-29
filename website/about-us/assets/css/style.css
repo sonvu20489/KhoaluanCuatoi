@@ -1,0 +1,83 @@
+/*must be include for every css start*/
+*{
+	margin: 0;
+	padding: 0;
+    box-sizing: border-box;
+    text-align: justify;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body
+{
+    margin: 0;
+    width: 100%;
+}
+ul
+{
+    list-style: none;
+}
+a
+{
+    text-decoration: none;
+}
+:root{
+    --colortext: white;
+    --back-ground-color: #049faa;
+}
+/* must be included for every css end*/
+.content-header
+{
+    display: flex;
+    color: orangered;
+    position: relative;
+}
+.content-title
+{
+    flex: 3;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    align-items: center;
+    flex-direction: column;
+}
+
+.content-title::after
+{
+    content: "";
+    width: 75%;
+    height: 3px;
+    background-color: orangered;
+    display: block;
+    position: absolute;
+    bottom: 0;
+    
+}
+.overview
+{
+    margin: 0 0 15px 0;
+    background-color: #f1f3f2;
+    padding: 5px;
+}
+.content-
+{
+    color: #0ce06b;
+    margin: 15px;
+}
+.card
+{
+    color: whitesmoke;
+    background-color: #1a3271;
+    margin: 15px;
+    /* padding: 20px;  */
+    border-radius: 1rem;
+}
+.card-title
+{
+    border-top-right-radius: 1rem;
+    border-top-left-radius: 1rem;
+    background-color: #33B2C1;
+    padding: 20px;
+}
+.card-content
+{
+    padding: 20px;
+}

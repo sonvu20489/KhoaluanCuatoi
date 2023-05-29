@@ -9,3 +9,8 @@ FTP username:	uoolo_33295914
 FTP password:	Ngocdong1
 FTP host name:	ftp.ihostfull.com
 Your Website URL:	http://sonvu1805.ihostfull.com
+
+FTP username:	khoacuaonline
+FTP password: 	Ngocdong1
+FTP hostname: 	files.000webhost.com
+Port:			21

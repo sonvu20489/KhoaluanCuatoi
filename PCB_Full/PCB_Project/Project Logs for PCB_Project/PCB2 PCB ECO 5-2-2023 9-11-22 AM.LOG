@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=C3 Pin=KEYPAD-1
+Added Member To Class: ClassName=Sheet1 Member=Component DP? 100v
+Added Member To Class: ClassName=Sheet1 Member=Component LS? CMT-6635C-030
+Added Member To Class: ClassName=Sheet1 Member=Component MC? Header 8H
+Added Member To Class: ClassName=Sheet1 Member=Component  SW-SPST
+Added Member To Class: ClassName=Sheet1 Member=Component VDK ESP32-DEVKITC
+Added Room: Name=Sheet1

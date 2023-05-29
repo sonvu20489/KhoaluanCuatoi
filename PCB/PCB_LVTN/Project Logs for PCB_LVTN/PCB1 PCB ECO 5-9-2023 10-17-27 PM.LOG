@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=SS Pin=MC?-1
+Removed Pin From Net: NetName=CLK Pin=MC?-2
+Removed Pin From Net: NetName=MISO Pin=MC?-3
+Removed Pin From Net: NetName=MOSI Pin=MC?-4
+Removed Pin From Net: NetName=RQ Pin=MC?-5
+Removed Pin From Net: NetName=GND Pin=MC?-6
+Removed Pin From Net: NetName=RSTSPI Pin=MC?-7
+Removed Pin From Net: NetName=3V3 Pin=MC?-8
+Added Pin To Net: NetName=3V3 Pin=MC?-1
+Added Pin To Net: NetName=RSTSPI Pin=MC?-2
+Added Pin To Net: NetName=GND Pin=MC?-3
+Added Pin To Net: NetName=RQ Pin=MC?-4
+Added Pin To Net: NetName=MOSI Pin=MC?-5
+Added Pin To Net: NetName=MISO Pin=MC?-6
+Added Pin To Net: NetName=CLK Pin=MC?-7
+Added Pin To Net: NetName=SS Pin=MC?-8
+Added Member To Class: ClassName=Sheet2 Member=Component P? Header 5H
+Added Member To Class: ClassName=Sheet2 Member=Component RLGREEN? Res

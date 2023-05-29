@@ -1,0 +1,89 @@
+Removed Pin From Net: NetName=3V3 Pin=VDK-3V3
+Removed Pin From Net: NetName=NetHV_2 Pin=VDK-EN
+Removed Pin From Net: NetName=GND Pin=VDK-GND@1
+Removed Pin From Net: NetName=GND Pin=VDK-GND@2
+Removed Pin From Net: NetName=GND Pin=VDK-GND@3
+Removed Pin From Net: NetName=R2 Pin=VDK-GPIO0
+Removed Pin From Net: NetName=R1 Pin=VDK-GPIO2
+Removed Pin From Net: NetName=R3 Pin=VDK-GPIO4
+Removed Pin From Net: NetName=SS Pin=VDK-GPIO5
+Removed Pin From Net: NetName=NetHG_1 Pin=VDK-GPIO6
+Removed Pin From Net: NetName=NetHG_2 Pin=VDK-GPIO7
+Removed Pin From Net: NetName=NetHG_3 Pin=VDK-GPIO8
+Removed Pin From Net: NetName=NetHV_16 Pin=VDK-GPIO9
+Removed Pin From Net: NetName=NetHV_17 Pin=VDK-GPIO10
+Removed Pin From Net: NetName=NetHV_18 Pin=VDK-GPIO11
+Removed Pin From Net: NetName=C2 Pin=VDK-GPIO12
+Removed Pin From Net: NetName=C3 Pin=VDK-GPIO13
+Removed Pin From Net: NetName=C1 Pin=VDK-GPIO14
+Removed Pin From Net: NetName=R0 Pin=VDK-GPIO15
+Removed Pin From Net: NetName=RX2 Pin=VDK-GPIO16
+Removed Pin From Net: NetName=TX2 Pin=VDK-GPIO17
+Removed Pin From Net: NetName=CLK Pin=VDK-GPIO18
+Removed Pin From Net: NetName=MISO Pin=VDK-GPIO19
+Removed Pin From Net: NetName=SDA Pin=VDK-GPIO21
+Removed Pin From Net: NetName=SCL Pin=VDK-GPIO22
+Removed Pin From Net: NetName=MOSI Pin=VDK-GPIO23
+Removed Pin From Net: NetName=BUZZER Pin=VDK-GPIO25
+Removed Pin From Net: NetName=RSTSPI Pin=VDK-GPIO26
+Removed Pin From Net: NetName=C0 Pin=VDK-GPIO27
+Removed Pin From Net: NetName=CTRL_C Pin=VDK-GPIO32
+Removed Pin From Net: NetName=LEDR Pin=VDK-GPIO33
+Removed Pin From Net: NetName=DOOR Pin=VDK-GPIO34
+Removed Pin From Net: NetName=NetHV_6 Pin=VDK-GPIO35
+Removed Pin From Net: NetName=NetHV_3 Pin=VDK-GPIO36
+Removed Pin From Net: NetName=NetHV_4 Pin=VDK-GPIO39
+Removed Pin From Net: NetName=CTX Pin=VDK-RX0
+Removed Pin From Net: NetName=CRX Pin=VDK-TX0
+Removed Pin From Net: NetName=VCC Pin=VDK-VIN
+Removed Member From Class: ClassName=Sheet1 Member=VDK
+Added Component: Designator=U?(MODULE_ESP32-DEVKITC)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ESP32-DEVKITC/Espressif+Systems/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ESP32-DEVKITC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/ESP32-DEVKITC/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ESP32-DEVKITC/Espressif+Systems/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=U?-1
+Added Pin To Net: NetName=NetHV_2 Pin=U?-2
+Added Pin To Net: NetName=NetHV_3 Pin=U?-3
+Added Pin To Net: NetName=NetHV_4 Pin=U?-4
+Added Pin To Net: NetName=DOOR Pin=U?-5
+Added Pin To Net: NetName=NetHV_6 Pin=U?-6
+Added Pin To Net: NetName=CTRL_C Pin=U?-7
+Added Pin To Net: NetName=LEDR Pin=U?-8
+Added Pin To Net: NetName=BUZZER Pin=U?-9
+Added Pin To Net: NetName=RSTSPI Pin=U?-10
+Added Pin To Net: NetName=C0 Pin=U?-11
+Added Pin To Net: NetName=C1 Pin=U?-12
+Added Pin To Net: NetName=C2 Pin=U?-13
+Added Pin To Net: NetName=GND Pin=U?-14
+Added Pin To Net: NetName=C3 Pin=U?-15
+Added Pin To Net: NetName=NetHV_16 Pin=U?-16
+Added Pin To Net: NetName=NetHV_17 Pin=U?-17
+Added Pin To Net: NetName=NetHV_18 Pin=U?-18
+Added Pin To Net: NetName=VCC Pin=U?-19
+Added Pin To Net: NetName=NetHG_1 Pin=U?-20
+Added Pin To Net: NetName=NetHG_2 Pin=U?-21
+Added Pin To Net: NetName=NetHG_3 Pin=U?-22
+Added Pin To Net: NetName=R0 Pin=U?-23
+Added Pin To Net: NetName=R1 Pin=U?-24
+Added Pin To Net: NetName=R2 Pin=U?-25
+Added Pin To Net: NetName=R3 Pin=U?-26
+Added Pin To Net: NetName=RX2 Pin=U?-27
+Added Pin To Net: NetName=TX2 Pin=U?-28
+Added Pin To Net: NetName=SS Pin=U?-29
+Added Pin To Net: NetName=CLK Pin=U?-30
+Added Pin To Net: NetName=MISO Pin=U?-31
+Added Pin To Net: NetName=GND Pin=U?-32
+Added Pin To Net: NetName=SDA Pin=U?-33
+Added Pin To Net: NetName=CTX Pin=U?-34
+Added Pin To Net: NetName=CRX Pin=U?-35
+Added Pin To Net: NetName=SCL Pin=U?-36
+Added Pin To Net: NetName=MOSI Pin=U?-37
+Added Pin To Net: NetName=GND Pin=U?-38
+Added Member To Class: ClassName=Sheet1 Member=Component U? ESP32-DEVKITC
+Added Room: Name=Sheet1

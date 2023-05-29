@@ -1,0 +1,10 @@
+- giới thiệu: about-us
++ Giới thiệu sơ lược đề tài
++ lý do chọn đề tài,...
++ Hướng dẫn sử dụng thiết bị
+- Liên hệ: Contact
++ Thông tin sinh viên (Tên, MSSV, Số điện thoại, ngành,Trường...)
++ Thông tin đồ án (Tên đồ án, Nội dung làm,...)
+
+
+* mỗi trang cần tạo file index.html và thư mục cây thư mục asset

@@ -1,0 +1,313 @@
+Added Component: Designator=522(HDR1X8)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=CHOT(RELAY 5)
+Add component (AddParameter): Name = "Value"; Value = "Relay SPDT, 10A, 12V"; VariantName = "[No Variations]"
+Added Component: Designator=D?(LED-1)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "08-Jul-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Mech Layer 1 removed."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "LED; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LED-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=D?(DO-41)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "DO-204-AL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.fairchildsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.fairchildsemi.com/ds/1N%2F1N4001.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "1998"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Diode, Axial; Body 5.2 x 2.7 mm (LxDia. max), Lead Dia. 0.86 mm (max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DO-41"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Aug-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=D?(DO-41)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "DO-204-AL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.fairchildsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.fairchildsemi.com/ds/1N%2F1N4001.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "1998"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Diode, Axial; Body 5.2 x 2.7 mm (LxDia. max), Lead Dia. 0.86 mm (max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DO-41"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Aug-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=D?(LED-1)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "08-Jul-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Mech Layer 1 removed."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "LED; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LED-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=DOOR(HDR1X2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=DS1307(HDR1X4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=FINGER(HDR1X4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=IN_NP(HDR1X2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=KEYPAD(HDR1X8)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=LCD_I2C(HDR1X4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=LS(CUI_CMT-6635C-030)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CUI_purchase_URL"; Value = "https://www.cuidevices.com/product/audio/buzzers/audio-transducers/cmt-6635c-030?utm_source=snapeda.com&utm_medium=referral&utm_campaign=snapedaBOM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CMT-6635C-030"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CUI Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CMT-6635C-030/CUI%20Devices/view-part/2773120/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=NGUONPHU(RELAY 5)
+Add component (AddParameter): Name = "Value"; Value = "Relay SPDT, 10A, 12V"; VariantName = "[No Variations]"
+Added Component: Designator=NVDK(HDR1X2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=PIN_C(HDR1X2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=PIN_VDK_GND(MHDR1X19)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=PIN_VDK_V(MHDR1X19)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Q?(TO92-123)
+Add component (AddParameter): Name = "Value"; Value = "C1815"; VariantName = "[No Variations]"
+Added Component: Designator=Q?(TO92-123)
+Add component (AddParameter): Name = "Value"; Value = "C1815"; VariantName = "[No Variations]"
+Added Component: Designator=R?(tro vach 1w)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH006397"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 5% 1w 1k"; VariantName = "[No Variations]"
+Added Component: Designator=RBUZZER(RES-1/2W)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "R"; VariantName = "[No Variations]"
+Added Component: Designator=RCTRC(RES-1/2W)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "R"; VariantName = "[No Variations]"
+Added Component: Designator=RLGREEN?(RES-1/2W)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "R"; VariantName = "[No Variations]"
+Added Component: Designator=RLGREEN(RES-1/2W)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "R"; VariantName = "[No Variations]"
+Added Component: Designator=VDK(MODULE_ESP32-DEVKITC)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ESP32-DEVKITC/Espressif+Systems/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ESP32-DEVKITC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/ESP32-DEVKITC/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ESP32-DEVKITC/Espressif+Systems/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=522-1
+Added Pin To Net: NetName=RSTSPI Pin=522-2
+Added Pin To Net: NetName=GND Pin=522-3
+Added Pin To Net: NetName=RQ Pin=522-4
+Added Pin To Net: NetName=MISO Pin=522-5
+Added Pin To Net: NetName=MOSI Pin=522-6
+Added Pin To Net: NetName=CLK Pin=522-7
+Added Pin To Net: NetName=SS Pin=522-8
+Added Pin To Net: NetName=PC Pin=CHOT-1
+Added Pin To Net: NetName=COM12V Pin=CHOT-3
+Added Pin To Net: NetName=NetCHOT_4 Pin=CHOT-4
+Added Pin To Net: NetName=COM12V Pin=CHOT-5
+Added Pin To Net: NetName=GND Pin=D?-1
+Added Pin To Net: NetName=NetCHOT_4 Pin=D?-1
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=12V_ADT Pin=D?-2
+Added Pin To Net: NetName=COM12V Pin=D?-2
+Added Pin To Net: NetName=GND Pin=D?-2
+Added Pin To Net: NetName=NetCHOT_4 Pin=D?-2
+Added Pin To Net: NetName=GND Pin=DOOR-1
+Added Pin To Net: NetName=DOOR Pin=DOOR-2
+Added Pin To Net: NetName=GND Pin=DS1307-1
+Added Pin To Net: NetName=VCC Pin=DS1307-2
+Added Pin To Net: NetName=SDA Pin=DS1307-3
+Added Pin To Net: NetName=SCL Pin=DS1307-4
+Added Pin To Net: NetName=GND Pin=FINGER-1
+Added Pin To Net: NetName=RX2 Pin=FINGER-2
+Added Pin To Net: NetName=TX2 Pin=FINGER-3
+Added Pin To Net: NetName=VCC Pin=FINGER-4
+Added Pin To Net: NetName=NetLabel59 Pin=IN_NP-1
+Added Pin To Net: NetName=NetLabel60 Pin=IN_NP-2
+Added Pin To Net: NetName=C1 Pin=KEYPAD-2
+Added Pin To Net: NetName=C2 Pin=KEYPAD-3
+Added Pin To Net: NetName=C3 Pin=KEYPAD-4
+Added Pin To Net: NetName=R0 Pin=KEYPAD-5
+Added Pin To Net: NetName=R1 Pin=KEYPAD-6
+Added Pin To Net: NetName=R2 Pin=KEYPAD-7
+Added Pin To Net: NetName=R3 Pin=KEYPAD-8
+Added Pin To Net: NetName=SCL Pin=LCD_I2C-1
+Added Pin To Net: NetName=SDA Pin=LCD_I2C-2
+Added Pin To Net: NetName=VCC Pin=LCD_I2C-3
+Added Pin To Net: NetName=GND Pin=LCD_I2C-4
+Added Pin To Net: NetName=NetLS_N Pin=LS-N
+Added Pin To Net: NetName=VCC Pin=LS-P
+Added Pin To Net: NetName=COM12V Pin=NGUONPHU-1
+Added Pin To Net: NetName=P+ Pin=NGUONPHU-2
+Added Pin To Net: NetName=12V_ADT Pin=NGUONPHU-3
+Added Pin To Net: NetName=GND Pin=NGUONPHU-4
+Added Pin To Net: NetName=12V_ADT Pin=NGUONPHU-5
+Added Pin To Net: NetName=VCC Pin=NVDK-1
+Added Pin To Net: NetName=GND Pin=NVDK-2
+Added Pin To Net: NetName=PC Pin=PIN_C-1
+Added Pin To Net: NetName=GND Pin=PIN_C-2
+Added Pin To Net: NetName=GND Pin=PIN_VDK_GND-1
+Added Pin To Net: NetName=MOSI Pin=PIN_VDK_GND-2
+Added Pin To Net: NetName=SCL Pin=PIN_VDK_GND-3
+Added Pin To Net: NetName=CRX Pin=PIN_VDK_GND-4
+Added Pin To Net: NetName=CTX Pin=PIN_VDK_GND-5
+Added Pin To Net: NetName=SDA Pin=PIN_VDK_GND-6
+Added Pin To Net: NetName=GND Pin=PIN_VDK_GND-7
+Added Pin To Net: NetName=MISO Pin=PIN_VDK_GND-8
+Added Pin To Net: NetName=CLK Pin=PIN_VDK_GND-9
+Added Pin To Net: NetName=SS Pin=PIN_VDK_GND-10
+Added Pin To Net: NetName=TX2 Pin=PIN_VDK_GND-11
+Added Pin To Net: NetName=RX2 Pin=PIN_VDK_GND-12
+Added Pin To Net: NetName=R0 Pin=PIN_VDK_GND-13
+Added Pin To Net: NetName=R1 Pin=PIN_VDK_GND-14
+Added Pin To Net: NetName=R2 Pin=PIN_VDK_GND-15
+Added Pin To Net: NetName=R3 Pin=PIN_VDK_GND-16
+Added Pin To Net: NetName=NetPIN_VDK_GND_17 Pin=PIN_VDK_GND-17
+Added Pin To Net: NetName=NetPIN_VDK_GND_18 Pin=PIN_VDK_GND-18
+Added Pin To Net: NetName=NetPIN_VDK_GND_19 Pin=PIN_VDK_GND-19
+Added Pin To Net: NetName=VCC Pin=PIN_VDK_V-1
+Added Pin To Net: NetName=NetPIN_VDK_V_2 Pin=PIN_VDK_V-2
+Added Pin To Net: NetName=NetPIN_VDK_V_3 Pin=PIN_VDK_V-3
+Added Pin To Net: NetName=NetPIN_VDK_V_4 Pin=PIN_VDK_V-4
+Added Pin To Net: NetName=C3 Pin=PIN_VDK_V-5
+Added Pin To Net: NetName=GND Pin=PIN_VDK_V-6
+Added Pin To Net: NetName=C2 Pin=PIN_VDK_V-7
+Added Pin To Net: NetName=C1 Pin=PIN_VDK_V-8
+Added Pin To Net: NetName=C0 Pin=PIN_VDK_V-9
+Added Pin To Net: NetName=RSTSPI Pin=PIN_VDK_V-10
+Added Pin To Net: NetName=BUZZER Pin=PIN_VDK_V-11
+Added Pin To Net: NetName=LEDR Pin=PIN_VDK_V-12
+Added Pin To Net: NetName=CTRL_C Pin=PIN_VDK_V-13
+Added Pin To Net: NetName=NetPIN_VDK_V_14 Pin=PIN_VDK_V-14
+Added Pin To Net: NetName=DOOR Pin=PIN_VDK_V-15
+Added Pin To Net: NetName=NetPIN_VDK_V_16 Pin=PIN_VDK_V-16
+Added Pin To Net: NetName=NetPIN_VDK_V_17 Pin=PIN_VDK_V-17
+Added Pin To Net: NetName=NetPIN_VDK_V_18 Pin=PIN_VDK_V-18
+Added Pin To Net: NetName=3V3 Pin=PIN_VDK_V-19
+Added Pin To Net: NetName=GND Pin=Q?-1
+Added Pin To Net: NetName=GND Pin=Q?-1
+Added Pin To Net: NetName=NetCHOT_4 Pin=Q?-2
+Added Pin To Net: NetName=NetLS_N Pin=Q?-2
+Added Pin To Net: NetName=NetQ?_3 Pin=Q?-3
+Added Pin To Net: NetName=DOOR Pin=R?-1
+Added Pin To Net: NetName=VCC Pin=R?-2
+Added Pin To Net: NetName=NetQ?_3 Pin=RBUZZER-1
+Added Pin To Net: NetName=BUZZER Pin=RBUZZER-2
+Added Pin To Net: NetName=CTRL_C Pin=RCTRC-2
+Added Pin To Net: NetName=COM12V Pin=RLGREEN-1
+Added Pin To Net: NetName=NetD?_1 Pin=RLGREEN-2
+Added Pin To Net: NetName=LEDR Pin=RLGREEN?-1
+Added Pin To Net: NetName=3V3 Pin=VDK-1
+Added Pin To Net: NetName=NetPIN_VDK_V_18 Pin=VDK-2
+Added Pin To Net: NetName=NetPIN_VDK_V_17 Pin=VDK-3
+Added Pin To Net: NetName=NetPIN_VDK_V_16 Pin=VDK-4
+Added Pin To Net: NetName=DOOR Pin=VDK-5
+Added Pin To Net: NetName=NetPIN_VDK_V_14 Pin=VDK-6
+Added Pin To Net: NetName=CTRL_C Pin=VDK-7
+Added Pin To Net: NetName=LEDR Pin=VDK-8
+Added Pin To Net: NetName=BUZZER Pin=VDK-9
+Added Pin To Net: NetName=RSTSPI Pin=VDK-10
+Added Pin To Net: NetName=C0 Pin=VDK-11
+Added Pin To Net: NetName=C1 Pin=VDK-12
+Added Pin To Net: NetName=C2 Pin=VDK-13
+Added Pin To Net: NetName=GND Pin=VDK-14
+Added Pin To Net: NetName=C3 Pin=VDK-15
+Added Pin To Net: NetName=NetPIN_VDK_V_4 Pin=VDK-16
+Added Pin To Net: NetName=NetPIN_VDK_V_3 Pin=VDK-17
+Added Pin To Net: NetName=NetPIN_VDK_V_2 Pin=VDK-18
+Added Pin To Net: NetName=VCC Pin=VDK-19
+Added Pin To Net: NetName=NetPIN_VDK_GND_19 Pin=VDK-20
+Added Pin To Net: NetName=NetPIN_VDK_GND_18 Pin=VDK-21
+Added Pin To Net: NetName=NetPIN_VDK_GND_17 Pin=VDK-22
+Added Pin To Net: NetName=R3 Pin=VDK-23
+Added Pin To Net: NetName=R2 Pin=VDK-24
+Added Pin To Net: NetName=R1 Pin=VDK-25
+Added Pin To Net: NetName=R0 Pin=VDK-26
+Added Pin To Net: NetName=RX2 Pin=VDK-27
+Added Pin To Net: NetName=TX2 Pin=VDK-28
+Added Pin To Net: NetName=SS Pin=VDK-29
+Added Pin To Net: NetName=CLK Pin=VDK-30
+Added Pin To Net: NetName=MISO Pin=VDK-31
+Added Pin To Net: NetName=GND Pin=VDK-32
+Added Pin To Net: NetName=SDA Pin=VDK-33
+Added Pin To Net: NetName=CTX Pin=VDK-34
+Added Pin To Net: NetName=CRX Pin=VDK-35
+Added Pin To Net: NetName=SCL Pin=VDK-36
+Added Pin To Net: NetName=MOSI Pin=VDK-37
+Added Pin To Net: NetName=GND Pin=VDK-38
+Added Member To Class: ClassName=Sheet1 Member=Component 522 Header 8
+Added Member To Class: ClassName=Sheet1 Member=Component CHOT Relay 10A/12V
+Added Member To Class: ClassName=Sheet1 Member=Component D? LEDG
+Added Member To Class: ClassName=Sheet1 Member=Component D? Diode 1N4004
+Added Member To Class: ClassName=Sheet1 Member=Component D? Diode 1N4004
+Added Member To Class: ClassName=Sheet1 Member=Component D? LEDG
+Added Member To Class: ClassName=Sheet1 Member=Component DOOR Header 2
+Added Member To Class: ClassName=Sheet1 Member=Component DS1307 Header 4
+Added Member To Class: ClassName=Sheet1 Member=Component FINGER Header 4
+Added Member To Class: ClassName=Sheet1 Member=Component IN_NP Header 2
+Added Member To Class: ClassName=Sheet1 Member=Component KEYPAD Header 8
+Added Member To Class: ClassName=Sheet1 Member=Component LCD_I2C Header 4
+Added Member To Class: ClassName=Sheet1 Member=Component LS CMT-6635C-030
+Added Member To Class: ClassName=Sheet1 Member=Component NGUONPHU Relay 10A/12V
+Added Member To Class: ClassName=Sheet1 Member=Component NVDK Header 2
+Added Member To Class: ClassName=Sheet1 Member=Component PIN_C Header 2
+Added Member To Class: ClassName=Sheet1 Member=Component PIN_VDK_GND MHDR1X19
+Added Member To Class: ClassName=Sheet1 Member=Component PIN_VDK_V MHDR1X19
+Added Member To Class: ClassName=Sheet1 Member=Component Q? 2SC1815
+Added Member To Class: ClassName=Sheet1 Member=Component Q? 2SC1815
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1k
+Added Member To Class: ClassName=Sheet1 Member=Component RBUZZER Res
+Added Member To Class: ClassName=Sheet1 Member=Component RCTRC Res
+Added Member To Class: ClassName=Sheet1 Member=Component RLGREEN? Res
+Added Member To Class: ClassName=Sheet1 Member=Component RLGREEN Res
+Added Member To Class: ClassName=Sheet1 Member=Component VDK ESP32-DEVKITC
+Added Room: Name=Sheet1

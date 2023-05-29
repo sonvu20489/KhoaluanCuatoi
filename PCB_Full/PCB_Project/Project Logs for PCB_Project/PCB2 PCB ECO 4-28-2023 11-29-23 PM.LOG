@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=NetBJTL_2 Pin=LS-N
+Removed Pin From Net: NetName=VCC Pin=LS-P
+Removed Member From Class: ClassName=Sheet1 Member=LS
+Added Component: Designator=LS?(CUI_CMT-6635C-030)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CUI_purchase_URL"; Value = "https://www.cuidevices.com/product/audio/buzzers/audio-transducers/cmt-6635c-030?utm_source=snapeda.com&utm_medium=referral&utm_campaign=snapedaBOM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CMT-6635C-030"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CUI Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CMT-6635C-030/CUI%20Devices/view-part/2773120/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetBJTL_2 Pin=LS?-N
+Added Pin To Net: NetName=VCC Pin=LS?-P
+Added Member To Class: ClassName=Sheet1 Member=Component LS? CMT-6635C-030
