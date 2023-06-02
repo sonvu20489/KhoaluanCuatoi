@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=VCC Pin=HVCC-1
+Removed Pin From Net: NetName=C3 Pin=HVCC-5
+Removed Pin From Net: NetName=GND Pin=HVCC-6
+Removed Pin From Net: NetName=C2 Pin=HVCC-7
+Removed Pin From Net: NetName=C1 Pin=HVCC-8
+Removed Pin From Net: NetName=C0 Pin=HVCC-9
+Removed Pin From Net: NetName=RSTSPI Pin=HVCC-10
+Removed Pin From Net: NetName=BUZZER Pin=HVCC-11
+Removed Pin From Net: NetName=LEDR Pin=HVCC-12
+Removed Pin From Net: NetName=CTRL_C Pin=HVCC-13
+Removed Pin From Net: NetName=DOOR Pin=HVCC-15
+Removed Pin From Net: NetName=3V3 Pin=HVCC-19
+Removed Member From Class: ClassName=Sheet1 Member=HVCC
+Added Component: Designator=HVCC?(HDR1X19H)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=HVCC?-1
+Added Pin To Net: NetName=DOOR Pin=HVCC?-5
+Added Pin To Net: NetName=CTRL_C Pin=HVCC?-7
+Added Pin To Net: NetName=LEDR Pin=HVCC?-8
+Added Pin To Net: NetName=BUZZER Pin=HVCC?-9
+Added Pin To Net: NetName=RSTSPI Pin=HVCC?-10
+Added Pin To Net: NetName=C0 Pin=HVCC?-11
+Added Pin To Net: NetName=C1 Pin=HVCC?-12
+Added Pin To Net: NetName=C2 Pin=HVCC?-13
+Added Pin To Net: NetName=GND Pin=HVCC?-14
+Added Pin To Net: NetName=C3 Pin=HVCC?-15
+Added Pin To Net: NetName=VCC Pin=HVCC?-19
+Added Pin To Net: NetName=NetHVCC?_2 Pin=HVCC?-2
+Added Pin To Net: NetName=NetHVCC?_2 Pin=VDK-2
+Added Net: Name=NetHVCC?_2
+Added Pin To Net: NetName=NetHVCC?_3 Pin=HVCC?-3
+Added Pin To Net: NetName=NetHVCC?_3 Pin=VDK-3
+Added Net: Name=NetHVCC?_3
+Added Pin To Net: NetName=NetHVCC?_4 Pin=HVCC?-4
+Added Pin To Net: NetName=NetHVCC?_4 Pin=VDK-4
+Added Net: Name=NetHVCC?_4
+Added Pin To Net: NetName=NetHVCC?_6 Pin=HVCC?-6
+Added Pin To Net: NetName=NetHVCC?_6 Pin=VDK-6
+Added Net: Name=NetHVCC?_6
+Added Pin To Net: NetName=NetHVCC?_16 Pin=HVCC?-16
+Added Pin To Net: NetName=NetHVCC?_16 Pin=VDK-16
+Added Net: Name=NetHVCC?_16
+Added Pin To Net: NetName=NetHVCC?_17 Pin=HVCC?-17
+Added Pin To Net: NetName=NetHVCC?_17 Pin=VDK-17
+Added Net: Name=NetHVCC?_17
+Added Pin To Net: NetName=NetHVCC?_18 Pin=HVCC?-18
+Added Pin To Net: NetName=NetHVCC?_18 Pin=VDK-18
+Added Net: Name=NetHVCC?_18
+Added Member To Class: ClassName=Sheet1 Member=Component HVCC? Header 19H
+Added Member To Class: ClassName=Sheet1 Member=Component P? Header 5H

@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=C1 Pin=KEYPAD-2
+Removed Pin From Net: NetName=C2 Pin=KEYPAD-3
+Removed Pin From Net: NetName=C3 Pin=KEYPAD-4
+Removed Pin From Net: NetName=R0 Pin=KEYPAD-5
+Removed Pin From Net: NetName=R1 Pin=KEYPAD-6
+Removed Pin From Net: NetName=R2 Pin=KEYPAD-7
+Removed Pin From Net: NetName=R3 Pin=KEYPAD-8
+Added Pin To Net: NetName=C2 Pin=KEYPAD-2
+Added Pin To Net: NetName=C1 Pin=KEYPAD-3
+Added Pin To Net: NetName=C0 Pin=KEYPAD-4
+Added Pin To Net: NetName=R3 Pin=KEYPAD-5
+Added Pin To Net: NetName=R2 Pin=KEYPAD-6
+Added Pin To Net: NetName=R1 Pin=KEYPAD-7
+Added Pin To Net: NetName=R0 Pin=KEYPAD-8
+Added Room: Name=Sheet1

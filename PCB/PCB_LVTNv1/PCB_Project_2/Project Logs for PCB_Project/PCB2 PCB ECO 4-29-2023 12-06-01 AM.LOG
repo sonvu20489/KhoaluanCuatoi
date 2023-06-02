@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=DP-1
+Removed Pin From Net: NetName=12V_ADT Pin=DP-2
+Removed Member From Class: ClassName=Sheet1 Member=DP
+Added Component: Designator=DP?(DIODE 1A)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001063"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Diode 1N4007 1A (DIP)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=DP?-1
+Added Pin To Net: NetName=12V_ADT Pin=DP?-2
+Added Member To Class: ClassName=Sheet1 Member=Component DP? 100v

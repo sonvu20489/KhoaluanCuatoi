@@ -1,0 +1,127 @@
+Removed Pin From Net: NetName=3V3 Pin=VDK-1
+Removed Pin From Net: NetName=DOOR Pin=VDK-5
+Removed Pin From Net: NetName=CTRL_C Pin=VDK-7
+Removed Pin From Net: NetName=LEDR Pin=VDK-8
+Removed Pin From Net: NetName=BUZZER Pin=VDK-9
+Removed Pin From Net: NetName=RSTSPI Pin=VDK-10
+Removed Pin From Net: NetName=C0 Pin=VDK-11
+Removed Pin From Net: NetName=C1 Pin=VDK-12
+Removed Pin From Net: NetName=C2 Pin=VDK-13
+Removed Pin From Net: NetName=GND Pin=VDK-14
+Removed Pin From Net: NetName=C3 Pin=VDK-15
+Removed Pin From Net: NetName=VCC Pin=VDK-19
+Removed Pin From Net: NetName=R0 Pin=VDK-23
+Removed Pin From Net: NetName=R1 Pin=VDK-24
+Removed Pin From Net: NetName=R2 Pin=VDK-25
+Removed Pin From Net: NetName=R3 Pin=VDK-26
+Removed Pin From Net: NetName=RX2 Pin=VDK-27
+Removed Pin From Net: NetName=TX2 Pin=VDK-28
+Removed Pin From Net: NetName=SS Pin=VDK-29
+Removed Pin From Net: NetName=CLK Pin=VDK-30
+Removed Pin From Net: NetName=MISO Pin=VDK-31
+Removed Pin From Net: NetName=GND Pin=VDK-32
+Removed Pin From Net: NetName=SDA Pin=VDK-33
+Removed Pin From Net: NetName=CTX Pin=VDK-34
+Removed Pin From Net: NetName=CRX Pin=VDK-35
+Removed Pin From Net: NetName=SCL Pin=VDK-36
+Removed Pin From Net: NetName=MOSI Pin=VDK-37
+Removed Pin From Net: NetName=GND Pin=VDK-38
+Change Component Footprint: Designator=VDK Old Footprint=MODULE_ESP32-DEVKITC New Footprint=NODEMCU32S
+Change Component Comment : Designator=BJTC Old Comment=C1815 New Comment=
+Change Component Comment : Designator=BJTL Old Comment=C1815 New Comment=
+Change Component Comment : Designator=LS? Old Comment=Coi Chip Speaker New Comment=
+Change Component Comment : Designator=PADT Old Comment=CON 2 KF301 New Comment=
+Change Component Comment : Designator=PC Old Comment=CON 2 KF301 New Comment=
+Change Component Comment : Designator=VDK Old Comment=ESP32-DEVKITC New Comment=
+Change Component Comment : Designator=DOOR Old Comment=Header 2H New Comment=
+Change Component Comment : Designator=DS1307 Old Comment=Header 4H New Comment=
+Change Component Comment : Designator=FINGER Old Comment=Header 4H New Comment=
+Change Component Comment : Designator=LCD Old Comment=Header 4H New Comment=
+Change Component Comment : Designator=P? Old Comment=Header 5H New Comment=
+Change Component Comment : Designator=P? Old Comment=Header 5H New Comment=eader 5H
+Change Component Comment : Designator=KEYPAD Old Comment=Header 8H New Comment=
+Change Component Comment : Designator=MC? Old Comment=Header 8H New Comment=
+Change Component Comment : Designator=HGND? Old Comment=Header 19H New Comment=
+Change Component Comment : Designator=HVCC? Old Comment=Header 19H New Comment=
+Change Component Comment : Designator=CHOT Old Comment=Relay 10A/12V New Comment=
+Change Component Comment : Designator=RCTRC Old Comment=Res New Comment=
+Change Component Comment : Designator=RDOOR Old Comment=Res New Comment=
+Change Component Comment : Designator=RL Old Comment=Res New Comment=
+Change Component Comment : Designator=RLGREEN? Old Comment=Res New Comment=
+Change Component Comment : Designator=RLGREEN Old Comment=Res New Comment=
+Change Component Designator: OldDesignator=HGND? NewDesignator=HG
+Change Component Designator: OldDesignator=HVCC? NewDesignator=HV
+Change Component Designator: OldDesignator=LS? NewDesignator=L
+Change Component Designator: OldDesignator=MC? NewDesignator=MC
+Change Component Designator: OldDesignator=P? NewDesignator=PGND
+Change Component Designator: OldDesignator=P? NewDesignator=PVCC
+Change Component Designator: OldDesignator=RLGREEN? NewDesignator=RLR
+Change component parameters: Designator = "VDK" ("VDK"); Footprint = "MODULE_ESP32-DEVKITC"; UniqueID = "\XBCQRTGH" ("\XBCQRTGH")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/NODEMCU-32S/AI-Thinker/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "AI-Thinker"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "NODEMCU-32S"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/NODEMCU-32S/AI-Thinker/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=VDK-3V3
+Added Pin To Net: NetName=GND Pin=VDK-GND@1
+Added Pin To Net: NetName=GND Pin=VDK-GND@2
+Added Pin To Net: NetName=GND Pin=VDK-GND@3
+Added Pin To Net: NetName=R2 Pin=VDK-GPIO0
+Added Pin To Net: NetName=R1 Pin=VDK-GPIO2
+Added Pin To Net: NetName=R3 Pin=VDK-GPIO4
+Added Pin To Net: NetName=SS Pin=VDK-GPIO5
+Added Pin To Net: NetName=C2 Pin=VDK-GPIO12
+Added Pin To Net: NetName=C3 Pin=VDK-GPIO13
+Added Pin To Net: NetName=C1 Pin=VDK-GPIO14
+Added Pin To Net: NetName=R0 Pin=VDK-GPIO15
+Added Pin To Net: NetName=RX2 Pin=VDK-GPIO16
+Added Pin To Net: NetName=TX2 Pin=VDK-GPIO17
+Added Pin To Net: NetName=CLK Pin=VDK-GPIO18
+Added Pin To Net: NetName=MISO Pin=VDK-GPIO19
+Added Pin To Net: NetName=SDA Pin=VDK-GPIO21
+Added Pin To Net: NetName=SCL Pin=VDK-GPIO22
+Added Pin To Net: NetName=MOSI Pin=VDK-GPIO23
+Added Pin To Net: NetName=BUZZER Pin=VDK-GPIO25
+Added Pin To Net: NetName=RSTSPI Pin=VDK-GPIO26
+Added Pin To Net: NetName=C0 Pin=VDK-GPIO27
+Added Pin To Net: NetName=CTRL_C Pin=VDK-GPIO32
+Added Pin To Net: NetName=LEDR Pin=VDK-GPIO33
+Added Pin To Net: NetName=DOOR Pin=VDK-GPIO34
+Added Pin To Net: NetName=CTX Pin=VDK-RX0
+Added Pin To Net: NetName=CRX Pin=VDK-TX0
+Added Pin To Net: NetName=VCC Pin=VDK-VIN
+Added Pin To Net: NetName=NetHG_1 Pin=HG-1
+Added Pin To Net: NetName=NetHG_1 Pin=VDK-GPIO6
+Added Net: Name=NetHG_1
+Added Pin To Net: NetName=NetHG_2 Pin=HG-2
+Added Pin To Net: NetName=NetHG_2 Pin=VDK-GPIO7
+Added Net: Name=NetHG_2
+Added Pin To Net: NetName=NetHG_3 Pin=HG-3
+Added Pin To Net: NetName=NetHG_3 Pin=VDK-GPIO8
+Added Net: Name=NetHG_3
+Added Pin To Net: NetName=NetHV_2 Pin=HV-2
+Added Pin To Net: NetName=NetHV_2 Pin=VDK-EN
+Added Net: Name=NetHV_2
+Added Pin To Net: NetName=NetHV_3 Pin=HV-3
+Added Pin To Net: NetName=NetHV_3 Pin=VDK-GPIO36
+Added Net: Name=NetHV_3
+Added Pin To Net: NetName=NetHV_4 Pin=HV-4
+Added Pin To Net: NetName=NetHV_4 Pin=VDK-GPIO39
+Added Net: Name=NetHV_4
+Added Pin To Net: NetName=NetHV_6 Pin=HV-6
+Added Pin To Net: NetName=NetHV_6 Pin=VDK-GPIO35
+Added Net: Name=NetHV_6
+Added Pin To Net: NetName=NetHV_16 Pin=HV-16
+Added Pin To Net: NetName=NetHV_16 Pin=VDK-GPIO9
+Added Net: Name=NetHV_16
+Added Pin To Net: NetName=NetHV_17 Pin=HV-17
+Added Pin To Net: NetName=NetHV_17 Pin=VDK-GPIO10
+Added Net: Name=NetHV_17
+Added Pin To Net: NetName=NetHV_18 Pin=HV-18
+Added Pin To Net: NetName=NetHV_18 Pin=VDK-GPIO11
+Added Net: Name=NetHV_18
+Added Member To Class: ClassName=Sheet1 Member=Component PVCC
+Added Room: Name=Sheet1

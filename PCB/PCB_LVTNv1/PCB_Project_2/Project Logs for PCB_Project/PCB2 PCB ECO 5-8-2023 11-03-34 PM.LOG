@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=SDA Pin=DS1307-1
+Removed Pin From Net: NetName=SCL Pin=DS1307-2
+Removed Pin From Net: NetName=SDA Pin=LCD-1
+Removed Pin From Net: NetName=SCL Pin=LCD-2
+Added Pin To Net: NetName=SCL Pin=DS1307-1
+Added Pin To Net: NetName=SDA Pin=DS1307-2
+Added Pin To Net: NetName=SCL Pin=LCD-1
+Added Pin To Net: NetName=SDA Pin=LCD-2
+Added Member To Class: ClassName=Sheet1 Member=Component P? Header 5H
+Added Room: Name=Sheet1
