@@ -1,0 +1,19 @@
+- Mở khóa sử dụng 3 phương pháp: RFID, vân tay, password.
+- Có báo động qua thiết bị âm thanh khi có đột nhập hoặc quên đóng cửa.
+- Đèn báo mở/đóng cửa.
+- Hệ thống mất điện không bị mất dữ liệu đã tồn tại trước đó.
+- Có khả năng giám sát thông tin qua trang web.
+- gửi cảnh báo thông qua email.
+- Thêm/xóa mật khẩu cho hệ thống.
+- Có camera giám sát, chụp lại hoạt động vào cửa, cảnh báo đột nhập.
+///////////////////
+-	Mở khóa sử dụng 3 phương pháp: RFID, vân tay, password.
+-	Báo động sử dụng buzzer (thay thế loa báo động) với hoạt động đơn giản
+-	Hệ thống đèn báo đóng mở cửa
+-	Lưu trữ các thông tin thẻ RFID, vân tay, password trên bộ nhớ flash của ESP32.
+-	Hệ thống hoạt động gửi nhận dữ liệu lưu trữ khi có kết nối WiFi ổn định.
+-	Lập trình chỉ sử dụng website không sử dụng thêm app.
+-	Gửi thông báo qua email, email có thể không được thông báo cho người giám sát, quản lý.
+-	Chế độ xem camera chỉ xem được ở mạng nội bộ.
+-	Khi không có mạng chỉ sử dụng được các phần ngoại tuyến (mở cửa, đóng cửa, thêm, xóa vân tay).
+-	Dữ liệu được kết nối và lưu trữ trên MySQL server.
